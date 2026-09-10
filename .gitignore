@@ -1,0 +1,14 @@
+# Build output
+Debug/
+Release/
+
+# Object / binary files
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.hex
+
+# CubeIDE launch configuration
+*.launch
