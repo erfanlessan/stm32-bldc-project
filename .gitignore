@@ -1,6 +1,7 @@
 # Build output
 Debug/
 Release/
+.settings/
 
 # Object / binary files
 *.o
